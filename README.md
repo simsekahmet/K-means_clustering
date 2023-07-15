@@ -1,2 +1,2 @@
-# K-means_clustering
-This code defines a function that performs K-means clustering on a given dataset.
+# K-Means Clustering
+K-means clustering is a popular unsupervised machine learning algorithm used for grouping data points into clusters based on their similarity. It aims to partition the data into a predefined number of clusters, where each data point belongs to the cluster with the nearest mean or centroid. This code finds the best K value (number of clusters) for your data set and cluster it. Also, the code checks if scaling is required. If scale is set to True, the data is scaled.
